@@ -10,4 +10,4 @@
 ### Corrention:
  - 
 ### PDF:
- - [Tenor Trombone](https://nbviewer.jupyter.org/github.com/BaruTheGhost/transcription_easy_street_trombone_solo/blob/master/pdf/Easy_Street%20(Trombone%20solo).pdf)
+ - [Tenor Trombone](https://nbviewer.jupyter.org/github/BaruTheGhost/transcription_easy_street_trombone_solo/blob/master/pdf/Easy_Street%20%28Trombone%20solo%29.pdf)
